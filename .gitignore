@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TrainingBlazorApp/Shared/obj
+/TrainingBlazorApp.UnitTests/bin/Debug/net5.0
+/TrainingBlazorApp.IntegrationTests/bin/Debug/net5.0
+/TrainingBlazorApp.Core/bin/Debug/net5.0
+/TrainingBlazorApp.Core/obj/Debug/net5.0
+/TrainingBlazorApp.Core/obj
+/TrainingBlazorApp.IntegrationTests/obj
+/TrainingBlazorApp.UnitTests/obj
+/TrainingBlazorApp/Client/bin/Debug/net5.0
+/TrainingBlazorApp/Client/obj
